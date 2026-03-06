@@ -1,0 +1,22 @@
+{
+  "name": "darshanease-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "bootstrap": "^5.3.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "dev": "vite"
+  },
+  "proxy": "http://localhost:5173",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "vite": "^7.3.1"
+  }
+}
